@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bridge
+  - Damagable
+  - RightBlockEnemy
+  - LeftBlockEnemy
+  - Coin
+  - TopBlock
+  - BottomBlock
+  - Bot
+  - Lift
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Components
+  - Water
+  - UI
+  - Player
+  - Arrows
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 389254619
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obgects
+    uniqueID: 3644762395
+    locked: 0
+  - name: Ground
+    uniqueID: 625629835
+    locked: 0
+  - name: Player
+    uniqueID: 1623574721
+    locked: 0
+  - name: Water
+    uniqueID: 1804601671
+    locked: 0
